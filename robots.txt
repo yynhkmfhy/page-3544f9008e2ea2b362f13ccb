@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-df613ceabd.minzhongrc.cn/sitemap.xml
